@@ -1,0 +1,13 @@
+* { /* O * serve para acessar todas as tags do html */
+    margin: 0;
+    padding: 0; /* OBS: Apertanto Ctrl + ; conseguimos comentar o codigo rapidamente */
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
